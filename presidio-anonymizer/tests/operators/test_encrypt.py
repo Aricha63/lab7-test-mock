@@ -54,3 +54,10 @@ def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_encryp
         match="Invalid input, key must be of length 128, 192 or 256 bits",
     ):
         Encrypt().validate(params={"key": b'1111111111111111'})
+
+@mock.patch()
+def test_operator_name():
+    pass
+
+def test_operator_type():
+    pass
