@@ -15,9 +15,11 @@ Branches in this repo (with details):
     85c9992 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:35:18Z | Auto-update branch-info.txt
     7151959 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T19:35:02-04:00 | Initial commit
 - main
-  SHA: 573b9aa3dd568c3da51b1a2d04036ebcc00ebd31
-  Commits: 3
+  SHA: 90acef79a7035197c223d6dd4c3173edc693acb4
+  Commits: 8
   Recent commits:
-    573b9aa | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:48:48Z | Auto-update branch-info.txt
-    85c9992 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:35:18Z | Auto-update branch-info.txt
-    7151959 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T19:35:02-04:00 | Initial commit
+    90acef7 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-07T18:13:06Z | Merge branch 'lab7'
+    6a33e33 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-07T18:12:34Z | Hopefully fixed the asserts required
+    ee5527c | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-07T11:57:02Z | Merge branch 'lab7'
+    f515d9c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T11:56:30Z | Auto-update branch-info.txt
+    eadf392 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-07T11:56:04Z | Implementation incomplete
