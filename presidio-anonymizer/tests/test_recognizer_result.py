@@ -135,7 +135,7 @@ def test_given_different_recognizer_results_then_hash_is_not_equal(
 
     assert first.__hash__() != second.__hash__()
 
-
+    
 @pytest.mark.parametrize(
     # fmt: off
     "entity_type, score, start, end",
@@ -295,17 +295,17 @@ def test_logger(mock_logger):
 
     parts = called_arg[0].split("=")
 
-    new_type = parts[1].split(",")[0].split("'")[1]
-    new_start = int(parts[2].split(",")[0])
-    new_end = int(parts[3].split(",")[0])
-    new_score = float(parts[4])
+    entity_type = parts[1].split(",")[0].split("'")[1]
+    start = int(parts[2].split(",")[0])
+    end = int(parts[3].split(",")[0])
+    score = float(parts[4])
     
     mock_logger.info.assert_called_once()
 
-    assert new_type == "entity"
-    assert new_start == 0
-    assert new_end == 10
-    assert new_score == 5.2
+    assert entity_type == "entity"
+    assert start == 0
+    assert end == 10
+    assert score == 5.2
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
     data = {"entity_type": entity_type, "score": score, "start": start, "end": end}
