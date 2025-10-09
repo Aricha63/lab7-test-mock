@@ -15,11 +15,11 @@ Branches in this repo (with details):
     85c9992 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:35:18Z | Auto-update branch-info.txt
     7151959 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T19:35:02-04:00 | Initial commit
 - main
-  SHA: a0d75c4d8dba5a0d3a379916259fb8aeb72e39f1
-  Commits: 14
+  SHA: 70b3fb7bf22f1ce5b3e8fa42d5515b5329b54f41
+  Commits: 17
   Recent commits:
+    70b3fb7 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:42:29Z | Merge branch 'lab7'
+    6a628d4 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:42:16Z | Adjusted format of assert statments to check log directly
+    fd1e1f7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:29:13Z | Auto-update branch-info.txt
     a0d75c4 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:28:55Z | Merge branch 'lab7'
     5654572 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:28:40Z | Implemented the designated method
-    dbf9885 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:18:58Z | Auto-update branch-info.txt
-    922d703 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:17:17Z | Merge branch 'lab7'
-    438812a | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:06:46Z | Changed variable names, finished test cases in test_encrypt.py
