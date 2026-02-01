@@ -1,14 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: ae2b71573783d4a5f0b3b7f517084a7d7bd45d29
-  Commits: 19
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: a1f9b12e710c7f6e90a4836dbe6f7213d8777a1c
+  Commits: 21
   Recent commits:
-    ae2b715 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T21:21:55Z | Bump python in /presidio-anonymizer
+    a1f9b12 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T21:09:34Z | Bump python in /presidio-anonymizer
+    1a8737b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T22:25:43Z | Auto-update branch-info.txt
+    9a59abb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T21:22:03Z | Auto-update branch-info.txt
     9f0ed26 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:42:49Z | Auto-update branch-info.txt
     70b3fb7 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:42:29Z | Merge branch 'lab7'
-    6a628d4 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:42:16Z | Adjusted format of assert statments to check log directly
-    fd1e1f7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:29:13Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: 7e1c1ba4c4e54ca3d2e714698e0fc7ec6c0dc1ca
   Commits: 20
@@ -26,11 +26,11 @@ Branches in this repo (with details):
     85c9992 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:35:18Z | Auto-update branch-info.txt
     7151959 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T19:35:02-04:00 | Initial commit
 - main
-  SHA: 9a59abb98dad6dae01d8d03c521feae6e86c1db8
-  Commits: 19
+  SHA: 1a8737b91b2b4649fd254c07a189b36bd8c6e350
+  Commits: 20
   Recent commits:
+    1a8737b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T22:25:43Z | Auto-update branch-info.txt
     9a59abb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T21:22:03Z | Auto-update branch-info.txt
     9f0ed26 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:42:49Z | Auto-update branch-info.txt
     70b3fb7 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:42:29Z | Merge branch 'lab7'
     6a628d4 | Author: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Committer: Alex Richardson <231764980+Aricha63@users.noreply.github.com> | Date: 2025-10-09T16:42:16Z | Adjusted format of assert statments to check log directly
-    fd1e1f7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:29:13Z | Auto-update branch-info.txt
